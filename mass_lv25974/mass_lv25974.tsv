@@ -1,0 +1,871 @@
+student_id	species	park	observer	body_mass	landscape	vegetation	lion_presence	env_var	env_value
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1160.408204678496	Flat	Dense	Present	distance_to_water_km	4.0619944352360955
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1160.408204678496	Flat	Dense	Present	average_annual_rainfall_mm	592.5762821888156
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1160.408204678496	Flat	Dense	Present	predator_density_per_sq_km	0.6602754675525984
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1414.166285968478	Flat	Open	Present	distance_to_water_km	3.2772415092154485
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1414.166285968478	Flat	Open	Present	average_annual_rainfall_mm	1054.5541577859497
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1414.166285968478	Flat	Open	Present	predator_density_per_sq_km	1.7474653216592941
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1073.7820180478766	Flat	Open	Absent	distance_to_water_km	1.7929525253452794
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1073.7820180478766	Flat	Open	Absent	average_annual_rainfall_mm	1049.45226037554
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1073.7820180478766	Flat	Open	Absent	predator_density_per_sq_km	NA
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	879.794132435862	Hilly	NA	Present	distance_to_water_km	7.009715254147137
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	879.794132435862	Hilly	NA	Present	average_annual_rainfall_mm	1109.2344062065188
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	879.794132435862	Hilly	NA	Present	predator_density_per_sq_km	0.2670210963616464
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1047.2855328504338	Flat	Dense	Absent	distance_to_water_km	5.362909396741037
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1047.2855328504338	Flat	Dense	Absent	average_annual_rainfall_mm	1165.6473142655673
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1047.2855328504338	Flat	Dense	Absent	predator_density_per_sq_km	0.6327715152735438
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1086.860080305472	Hilly	Open	Present	distance_to_water_km	2.8651481514258474
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1086.860080305472	Hilly	Open	Present	average_annual_rainfall_mm	819.4321462044951
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1086.860080305472	Hilly	Open	Present	predator_density_per_sq_km	1.317948542997543
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1859.3179052705248	Flat	Dense	Present	distance_to_water_km	1.9536681539050864
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1859.3179052705248	Flat	Dense	Present	average_annual_rainfall_mm	701.8904226703858
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1859.3179052705248	Flat	Dense	Present	predator_density_per_sq_km	0.5275581231078529
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	919.2238124123454	Hilly	Dense	Absent	distance_to_water_km	2.4945388656342184
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	919.2238124123454	Hilly	Dense	Absent	average_annual_rainfall_mm	1308.0355168224712
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	919.2238124123454	Hilly	Dense	Absent	predator_density_per_sq_km	1.8602749994575822
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1307.7667302003408	Flat	Dense	Absent	distance_to_water_km	1.0131551917946242
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1307.7667302003408	Flat	Dense	Absent	average_annual_rainfall_mm	1225.318390781897
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1307.7667302003408	Flat	Dense	Absent	predator_density_per_sq_km	1.2628347292542184
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	4682.396982779638	Flat	Dense	Present	distance_to_water_km	2.794405157026787
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	4682.396982779638	Flat	Dense	Present	average_annual_rainfall_mm	547.2500388013897
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	4682.396982779638	Flat	Dense	Present	predator_density_per_sq_km	0.887410389092479
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	937.1147807337816	Flat	Dense	Absent	distance_to_water_km	0.2909291983670603
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	937.1147807337816	Flat	Dense	Absent	average_annual_rainfall_mm	971.455764745214
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	937.1147807337816	Flat	Dense	Absent	predator_density_per_sq_km	1.7738985508298193
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1429.6284423444818	Flat	Open	Present	distance_to_water_km	0.8242572465611865
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1429.6284423444818	Flat	Open	Present	average_annual_rainfall_mm	731.2156531730503
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1429.6284423444818	Flat	Open	Present	predator_density_per_sq_km	1.312397495770934
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1399.2362204951792	Hilly	Dense	Present	distance_to_water_km	0.859823090602039
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1399.2362204951792	Hilly	Dense	Present	average_annual_rainfall_mm	378.7746788374107
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1399.2362204951792	Hilly	Dense	Present	predator_density_per_sq_km	0.7318684318770398
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1700.6342901017947	Hilly	Open	Preseet	distance_to_water_km	2.2672431396296693
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1700.6342901017947	Hilly	Open	Preseet	average_annual_rainfall_mm	1045.036039356443
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1700.6342901017947	Hilly	Open	Preseet	predator_density_per_sq_km	1.1756021143538713
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1111.6951528273225	Hilly	Dense	Absent	distance_to_water_km	2.3207590190602394
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1111.6951528273225	Hilly	Dense	Absent	average_annual_rainfall_mm	976.2364872224235
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1111.6951528273225	Hilly	Dense	Absent	predator_density_per_sq_km	1.5734322041636082
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	780.0660442837582	Flat	Open	Present	distance_to_water_km	2.691383407885078
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	780.0660442837582	Flat	Open	Present	average_annual_rainfall_mm	970.7892197460757
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	780.0660442837582	Flat	Open	Present	predator_density_per_sq_km	1.2832531041151276
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	858.628479998729	Flat	Dense	Absent	distance_to_water_km	5.349952169188044
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	858.628479998729	Flat	Dense	Absent	average_annual_rainfall_mm	1064.8457625403698
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	858.628479998729	Flat	Dense	Absent	predator_density_per_sq_km	0.6309004807716849
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1006.0980243360435	Hilly	Open	Absent	distance_to_water_km	4.923929938669293
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1006.0980243360435	Hilly	Open	Absent	average_annual_rainfall_mm	1264.739549318976
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1006.0980243360435	Hilly	Open	Absent	predator_density_per_sq_km	1.819645211855775
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1469.8497820318366	Flat	Dense	Absent	distance_to_water_km	4.510227994137143
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1469.8497820318366	Flat	Dense	Absent	average_annual_rainfall_mm	1061.679251345016
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1469.8497820318366	Flat	Dense	Absent	predator_density_per_sq_km	2.241298438314933
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1281.8873117232304	Flat	Dense	Absent	distance_to_water_km	2.8502644299374267
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1281.8873117232304	Flat	Dense	Absent	average_annual_rainfall_mm	815.0692471379415
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1281.8873117232304	Flat	Dense	Absent	predator_density_per_sq_km	1.21335856680347
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1218.1156440440614	Flat	Dense	Absent	distance_to_water_km	3.742952817269937
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1218.1156440440614	Flat	Dense	Absent	average_annual_rainfall_mm	NA
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1218.1156440440614	Flat	Dense	Absent	predator_density_per_sq_km	1.1061364452652804
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1301.4295492001481	Flat	Open	Absent	distance_to_water_km	0.7551931677998441
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1301.4295492001481	Flat	Open	Absent	average_annual_rainfall_mm	960.4591620876457
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1301.4295492001481	Flat	Open	Absent	predator_density_per_sq_km	0.9484392344550827
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1525.6118866355646	Hilly	Open	Present	distance_to_water_km	2.512323557393134
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1525.6118866355646	Hilly	Open	Present	average_annual_rainfall_mm	1093.0050959736855
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1525.6118866355646	Hilly	Open	Present	predator_density_per_sq_km	4.540290934149955
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1361.3631876834763	Flat	Open	Present	distance_to_water_km	2.6118894550246328
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1361.3631876834763	Flat	Open	Present	average_annual_rainfall_mm	688.0958941893875
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1361.3631876834763	Flat	Open	Present	predator_density_per_sq_km	1.2133933699628914
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1522.9691888786103	Flat	Dense	Absent	distance_to_water_km	6.688476619194438
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1522.9691888786103	Flat	Dense	Absent	average_annual_rainfall_mm	944.7073393472848
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1522.9691888786103	Flat	Dense	Absent	predator_density_per_sq_km	0.8951125449280882
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	982.3493657011189	Flat	Open	Present	distance_to_water_km	0.8796434902441649
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	982.3493657011189	Flat	Open	Present	average_annual_rainfall_mm	1290.180178050374
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	982.3493657011189	Flat	Open	Present	predator_density_per_sq_km	0.17281347219875187
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1089.6133292719298	Flat	Open	Present	distance_to_water_km	4.070150286609314
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1089.6133292719298	Flat	Open	Present	average_annual_rainfall_mm	967.5159726296541
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1089.6133292719298	Flat	Open	Present	predator_density_per_sq_km	0.33430643534854415
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1186.0769131934705	Hilly	Open	Present	distance_to_water_km	1.221567381616545
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1186.0769131934705	Hilly	Open	Present	average_annual_rainfall_mm	790.4737997216829
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1186.0769131934705	Hilly	Open	Present	predator_density_per_sq_km	0.9470804466808624
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1332.857929279442	Flat	Dense	Present	distance_to_water_km	2.799263527434037
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1332.857929279442	Flat	Dense	Present	average_annual_rainfall_mm	917.2164494723381
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1332.857929279442	Flat	Dense	Present	predator_density_per_sq_km	1.1553528918652232
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	899.716253874337	Hilly	Open	Absent	distance_to_water_km	2.034870582543746
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	899.716253874337	Hilly	Open	Absent	average_annual_rainfall_mm	1334.3945636085941
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	899.716253874337	Hilly	Open	Absent	predator_density_per_sq_km	1.2138665020195265
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1491.6497246974689	Hilly	Open	Present	distance_to_water_km	2.89590819265068
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1491.6497246974689	Hilly	Open	Present	average_annual_rainfall_mm	1165.0131883642407
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1491.6497246974689	Hilly	Open	Present	predator_density_per_sq_km	1.7772278209231616
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1086.2690421066886	Flat	Open	Absent	distance_to_water_km	3.7142111590566325
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1086.2690421066886	Flat	Open	Absent	average_annual_rainfall_mm	1371.0027400244817
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1086.2690421066886	Flat	Open	Absent	predator_density_per_sq_km	0.8729240842686941
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1216.48066767202	Flat	Open	Present	distance_to_water_km	0.9807200658546394
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1216.48066767202	Flat	Open	Present	average_annual_rainfall_mm	1041.7293571485313
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1216.48066767202	Flat	Open	Present	predator_density_per_sq_km	2.3401432750236384
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	981.4320694397335	Hilly	Open	Absent	distance_to_water_km	0.4056635162368764
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	981.4320694397335	Hilly	Open	Absent	average_annual_rainfall_mm	1123.0825289471275
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	981.4320694397335	Hilly	Open	Absent	predator_density_per_sq_km	0.5246304179980625
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	994.7997835620733	Hilly	Dense	Present	distance_to_water_km	0.9514018558690067
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	994.7997835620733	Hilly	Dense	Present	average_annual_rainfall_mm	832.4629262955601
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	994.7997835620733	Hilly	Dense	Present	predator_density_per_sq_km	0.4291666798859483
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	665.1512670781412	Hilly	Open	Absent	distance_to_water_km	3.552262038234673
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	665.1512670781412	Hilly	Open	Absent	average_annual_rainfall_mm	1181.6112006791
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	665.1512670781412	Hilly	Open	Absent	predator_density_per_sq_km	0.42303924591968867
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1332.122430972391	Flat	Dense	Present	distance_to_water_km	4.001986087410937
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1332.122430972391	Flat	Dense	Present	average_annual_rainfall_mm	848.0999373432281
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1332.122430972391	Flat	Dense	Present	predator_density_per_sq_km	1.681368284406544
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1029.7868407531673	Flat	Open	Absent	distance_to_water_km	1.8957282798211639
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1029.7868407531673	Flat	Open	Absent	average_annual_rainfall_mm	573.8303485912767
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1029.7868407531673	Flat	Open	Absent	predator_density_per_sq_km	0.9436084658389864
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	973.7333736676043	Hilly	Dense	Absent	distance_to_water_km	10.577281935872444
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	973.7333736676043	Hilly	Dense	Absent	average_annual_rainfall_mm	1038.3978897052377
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	973.7333736676043	Hilly	Dense	Absent	predator_density_per_sq_km	1.7382390234680265
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	897.6221462654954	Flat	Dense	Absent	distance_to_water_km	0.6217642770156664
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	897.6221462654954	Flat	Dense	Absent	average_annual_rainfall_mm	1583.7553653194307
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	897.6221462654954	Flat	Dense	Absent	predator_density_per_sq_km	0.8291165894371775
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1043.6130227247374	Hilly	Dense	Absent	distance_to_water_km	3.7895551118370006
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1043.6130227247374	Hilly	Dense	Absent	average_annual_rainfall_mm	1240.2743018719184
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1043.6130227247374	Hilly	Dense	Absent	predator_density_per_sq_km	0.6607865100553028
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1224.8322168605773	Hilly	Open	Present	distance_to_water_km	4.198331258197417
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1224.8322168605773	Hilly	Open	Present	average_annual_rainfall_mm	1349.5760169838782
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1224.8322168605773	Hilly	Open	Present	predator_density_per_sq_km	0.7727136007632366
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1756.404629994394	Flat	Open	Present	distance_to_water_km	3.1312380337261727
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1756.404629994394	Flat	Open	Present	average_annual_rainfall_mm	1107.6567169279456
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1756.404629994394	Flat	Open	Present	predator_density_per_sq_km	0.2733966037705839
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1237.2134316237757	Hilly	Dense	Absent	distance_to_water_km	5.684373343828681
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1237.2134316237757	Hilly	Dense	Absent	average_annual_rainfall_mm	817.4328465051327
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1237.2134316237757	Hilly	Dense	Absent	predator_density_per_sq_km	0.4409910571599013
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1272.65491661059	Hilly	Dense	Absent	distance_to_water_km	10.123085018402039
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1272.65491661059	Hilly	Dense	Absent	average_annual_rainfall_mm	939.3277434669149
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1272.65491661059	Hilly	Dense	Absent	predator_density_per_sq_km	0.36442873813453686
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	970.3742898331718	Flat	Dense	Absent	distance_to_water_km	1.9177799983770736
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	970.3742898331718	Flat	Dense	Absent	average_annual_rainfall_mm	918.0255679564224
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	970.3742898331718	Flat	Dense	Absent	predator_density_per_sq_km	2.091801361855774
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1162.2348509969468	Hilly	Dense	Present	distance_to_water_km	1.1992327355263381
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1162.2348509969468	Hilly	Dense	Present	average_annual_rainfall_mm	859.3900660653738
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1162.2348509969468	Hilly	Dense	Present	predator_density_per_sq_km	0.658275946522379
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	997.9272753151236	Flat	Open	Absent	distance_to_water_km	1.514302867304145
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	997.9272753151236	Flat	Open	Absent	average_annual_rainfall_mm	1211.2501851789148
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	997.9272753151236	Flat	Open	Absent	predator_density_per_sq_km	1.7378033913724165
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1682.6925805117748	Flat	Dense	Present	distance_to_water_km	4.7086847147558135
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1682.6925805117748	Flat	Dense	Present	average_annual_rainfall_mm	640.7909492903765
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1682.6925805117748	Flat	Dense	Present	predator_density_per_sq_km	2.8908293150509445
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1104.1507736266954	Hilly	Dense	Present	distance_to_water_km	2.9848366293750566
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1104.1507736266954	Hilly	Dense	Present	average_annual_rainfall_mm	1259.909839633832
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1104.1507736266954	Hilly	Dense	Present	predator_density_per_sq_km	0.8743781190633252
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1009.0958822443458	Flat	Dense	Present	distance_to_water_km	0.7549403515047416
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1009.0958822443458	Flat	Dense	Present	average_annual_rainfall_mm	1259.245745867768
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1009.0958822443458	Flat	Dense	Present	predator_density_per_sq_km	1.2198345495756089
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1291.6766316308733	Hilly	Dense	Present	distance_to_water_km	1.3890435612503125
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1291.6766316308733	Hilly	Dense	Present	average_annual_rainfall_mm	640.4132922793755
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1291.6766316308733	Hilly	Dense	Present	predator_density_per_sq_km	0.29353826789068627
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1150.4662914044286	Hilly	Dense	Present	distance_to_water_km	3.0141359271568127
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1150.4662914044286	Hilly	Dense	Present	average_annual_rainfall_mm	1191.8475993701602
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1150.4662914044286	Hilly	Dense	Present	predator_density_per_sq_km	0.5637925894830745
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1838.31484065619	Flat	Dense	Absent	distance_to_water_km	4.017960884400368
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1838.31484065619	Flat	Dense	Absent	average_annual_rainfall_mm	1729.0679957033526
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1838.31484065619	Flat	Dense	Absent	predator_density_per_sq_km	1.0401348774166521
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1585.965209019605	Flat	Dense	Present	distance_to_water_km	2.1607664836489806
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1585.965209019605	Flat	Dense	Present	average_annual_rainfall_mm	832.8353554175175
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1585.965209019605	Flat	Dense	Present	predator_density_per_sq_km	1.232889784779016
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	587.9170440004007	Flat	Dense	Present	distance_to_water_km	1.4129076312071047
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	587.9170440004007	Flat	Dense	Present	average_annual_rainfall_mm	1253.4712724224214
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	587.9170440004007	Flat	Dense	Present	predator_density_per_sq_km	0.5876764826291083
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1288.4178256691694	Flat	Open	Absent	distance_to_water_km	3.867736153241836
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1288.4178256691694	Flat	Open	Absent	average_annual_rainfall_mm	765.339446314179
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1288.4178256691694	Flat	Open	Absent	predator_density_per_sq_km	6.549582449575571
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	860.6814461981463	Hilly	Dense	Absent	distance_to_water_km	6.288223822576968
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	860.6814461981463	Hilly	Dense	Absent	average_annual_rainfall_mm	1333.2134254608402
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	860.6814461981463	Hilly	Dense	Absent	predator_density_per_sq_km	0.7255153149538762
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1505.165430566249	Hilly	NA	Present	distance_to_water_km	4.160664063028657
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1505.165430566249	Hilly	NA	Present	average_annual_rainfall_mm	1074.9474159779688
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1505.165430566249	Hilly	NA	Present	predator_density_per_sq_km	1.0459969917065428
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	784.1889593555121	Flat	Dense	NA	distance_to_water_km	2.254749623615651
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	784.1889593555121	Flat	Dense	NA	average_annual_rainfall_mm	1495.5746174869494
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	784.1889593555121	Flat	Dense	NA	predator_density_per_sq_km	1.5759437623445278
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1183.0817448306411	Flat	Open	Absent	distance_to_water_km	3.52680264514534
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1183.0817448306411	Flat	Open	Absent	average_annual_rainfall_mm	562.3087814389253
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1183.0817448306411	Flat	Open	Absent	predator_density_per_sq_km	0.98195181079515
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1110.2370929316774	Hilly	Dense	Absent	distance_to_water_km	1.9219112993702763
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1110.2370929316774	Hilly	Dense	Absent	average_annual_rainfall_mm	984.6106341623916
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1110.2370929316774	Hilly	Dense	Absent	predator_density_per_sq_km	0.6373112202387258
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	2041.4628955489359	Hilly	Dense	Absent	distance_to_water_km	3.6132673571069645
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	2041.4628955489359	Hilly	Dense	Absent	average_annual_rainfall_mm	841.9224471623206
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	2041.4628955489359	Hilly	Dense	Absent	predator_density_per_sq_km	2.0786402724381157
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	941.9118314777683	Flat	Open	Present	distance_to_water_km	1.6590835274739053
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	941.9118314777683	Flat	Open	Present	average_annual_rainfall_mm	940.8205392771102
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	941.9118314777683	Flat	Open	Present	predator_density_per_sq_km	3.098387225405662
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1751.5187453488186	Flat	Open	Absent	distance_to_water_km	7.000517372202229
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1751.5187453488186	Flat	Open	Absent	average_annual_rainfall_mm	811.1263771941985
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1751.5187453488186	Flat	Open	Absent	predator_density_per_sq_km	0.9794287555855968
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	844.2084390470911	Hilly	Open	Present	distance_to_water_km	1.97196541937709
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	844.2084390470911	Hilly	Open	Present	average_annual_rainfall_mm	749.8469258394998
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	844.2084390470911	Hilly	Open	Present	predator_density_per_sq_km	1.4822884473611961
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1303.3650937839816	Hilly	Open	Present	distance_to_water_km	7.928561674269002
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1303.3650937839816	Hilly	Open	Present	average_annual_rainfall_mm	1173.616712384935
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1303.3650937839816	Hilly	Open	Present	predator_density_per_sq_km	0.934084149533092
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	936.6780626274713	Hilly	Dense	Present	distance_to_water_km	2.4504317176531165
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	936.6780626274713	Hilly	Dense	Present	average_annual_rainfall_mm	673.725785776922
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	936.6780626274713	Hilly	Dense	Present	predator_density_per_sq_km	2.037082531025989
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	916.1658359708656	Hilly	Dense	Present	distance_to_water_km	3.466786814170369
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	916.1658359708656	Hilly	Dense	Present	average_annual_rainfall_mm	1445.209279466885
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	916.1658359708656	Hilly	Dense	Present	predator_density_per_sq_km	0.44516192972604773
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1179.1929941831647	Flat	Dense	Absent	distance_to_water_km	8.938970221608756
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1179.1929941831647	Flat	Dense	Absent	average_annual_rainfall_mm	644.1380244058748
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1179.1929941831647	Flat	Dense	Absent	predator_density_per_sq_km	5.076399024530547
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1403.2565849141708	Hilly	Open	Absent	distance_to_water_km	3.093013746672734
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1403.2565849141708	Hilly	Open	Absent	average_annual_rainfall_mm	1030.323745418584
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1403.2565849141708	Hilly	Open	Absent	predator_density_per_sq_km	0.6554246889016688
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	690.7868093502127	Hilly	Open	Present	distance_to_water_km	6.572886020496917
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	690.7868093502127	Hilly	Open	Present	average_annual_rainfall_mm	1159.8967860479443
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	690.7868093502127	Hilly	Open	Present	predator_density_per_sq_km	0.3601644342153092
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	923.0980317121496	Hilly	Dense	Present	distance_to_water_km	1.787853387336089
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	923.0980317121496	Hilly	Dense	Present	average_annual_rainfall_mm	1176.0206017277876
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	923.0980317121496	Hilly	Dense	Present	predator_density_per_sq_km	0.7822018284928616
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1053.4513762336758	Hilly	Open	Absent	distance_to_water_km	2.89071879794042
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1053.4513762336758	Hilly	Open	Absent	average_annual_rainfall_mm	909.4760008400859
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1053.4513762336758	Hilly	Open	Absent	predator_density_per_sq_km	1.1081544111970563
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1607.7934078530477	Hilly	Dense	Absent	distance_to_water_km	4.20940896482238
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1607.7934078530477	Hilly	Dense	Absent	average_annual_rainfall_mm	1023.8505985985203
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1607.7934078530477	Hilly	Dense	Absent	predator_density_per_sq_km	3.115952379681506
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1243.4381425079378	Flat	Dense	Present	distance_to_water_km	4.429316005683781
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1243.4381425079378	Flat	Dense	Present	average_annual_rainfall_mm	1288.3792455429032
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1243.4381425079378	Flat	Dense	Present	predator_density_per_sq_km	1.8924017201262764
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1631.4237464011821	Flat	Dense	Present	distance_to_water_km	2.462485364576063
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1631.4237464011821	Flat	Dense	Present	average_annual_rainfall_mm	563.0602248770723
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1631.4237464011821	Flat	Dense	Present	predator_density_per_sq_km	1.1048625106001344
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1864.112466835211	Flat	Dense	Absent	distance_to_water_km	1.7562055802406382
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1864.112466835211	Flat	Dense	Absent	average_annual_rainfall_mm	765.4780865403754
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1864.112466835211	Flat	Dense	Absent	predator_density_per_sq_km	0.3780841584309596
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1109.7846508903817	Hilly	Open	Present	distance_to_water_km	4.307379873767388
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1109.7846508903817	Hilly	Open	Present	average_annual_rainfall_mm	1096.1206942949832
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1109.7846508903817	Hilly	Open	Present	predator_density_per_sq_km	0.5454051198575431
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1340.001408207386	Flat	Open	Present	distance_to_water_km	2.384383775817598
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1340.001408207386	Flat	Open	Present	average_annual_rainfall_mm	866.5654064989026
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1340.001408207386	Flat	Open	Present	predator_density_per_sq_km	0.8919908069540992
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1046.4582748823818	Flat	Dense	Absent	distance_to_water_km	4.4071745401413835
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1046.4582748823818	Flat	Dense	Absent	average_annual_rainfall_mm	1411.0011981912999
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1046.4582748823818	Flat	Dense	Absent	predator_density_per_sq_km	5.972217383236276
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1885.1349061446072	Hilly	Open	Present	distance_to_water_km	3.783018745404193
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1885.1349061446072	Hilly	Open	Present	average_annual_rainfall_mm	1201.9761590064506
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1885.1349061446072	Hilly	Open	Present	predator_density_per_sq_km	0.27194394949534595
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1233.4330747325141	Flat	Open	Present	distance_to_water_km	3.264436482629103
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1233.4330747325141	Flat	Open	Present	average_annual_rainfall_mm	1021.6500257244268
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1233.4330747325141	Flat	Open	Present	predator_density_per_sq_km	2.2072298247073805
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1124.997814863585	Hilly	Dense	Present	distance_to_water_km	1.6358492990557305
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1124.997814863585	Hilly	Dense	Present	average_annual_rainfall_mm	547.672804738996
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1124.997814863585	Hilly	Dense	Present	predator_density_per_sq_km	0.6913811744236003
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1100.8590752256657	Flat	Open	Present	distance_to_water_km	5.818484167390888
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1100.8590752256657	Flat	Open	Present	average_annual_rainfall_mm	1007.8300675978726
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1100.8590752256657	Flat	Open	Present	predator_density_per_sq_km	3.2097518536380183
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1958.5507662239656	Hilly	Open	Present	distance_to_water_km	5.456176913221389
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1958.5507662239656	Hilly	Open	Present	average_annual_rainfall_mm	905.0752395409021
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1958.5507662239656	Hilly	Open	Present	predator_density_per_sq_km	0.45048051807679984
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	914.2518577691803	Flat	Dense	Absent	distance_to_water_km	4.113533564870506
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	914.2518577691803	Flat	Dense	Absent	average_annual_rainfall_mm	969.2960459438207
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	914.2518577691803	Flat	Dense	Absent	predator_density_per_sq_km	1.105763740685122
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1345.2861927743047	Flat	Open	Present	distance_to_water_km	3.890505206990843
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1345.2861927743047	Flat	Open	Present	average_annual_rainfall_mm	645.5322318832943
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1345.2861927743047	Flat	Open	Present	predator_density_per_sq_km	0.4631586350908609
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1423.3206324431662	Hilly	Dense	Absent	distance_to_water_km	4.638798489907456
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1423.3206324431662	Hilly	Dense	Absent	average_annual_rainfall_mm	1149.5974131489775
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1423.3206324431662	Hilly	Dense	Absent	predator_density_per_sq_km	1.8822380076683363
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1568.699923905689	Flat	Open	Absent	distance_to_water_km	NA
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1568.699923905689	Flat	Open	Absent	average_annual_rainfall_mm	688.3130679078901
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1568.699923905689	Flat	Open	Absent	predator_density_per_sq_km	2.825387835609018
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1240.0246315601992	Flat	Dense	Absent	distance_to_water_km	4.65845112812017
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1240.0246315601992	Flat	Dense	Absent	average_annual_rainfall_mm	932.1334055672771
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1240.0246315601992	Flat	Dense	Absent	predator_density_per_sq_km	3.9176998337660063
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	889.6776896785805	Hilly	Dense	Present	distance_to_water_km	1.4167846916733289
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	889.6776896785805	Hilly	Dense	Present	average_annual_rainfall_mm	1114.4277488354057
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	889.6776896785805	Hilly	Dense	Present	predator_density_per_sq_km	1.7477346441659127
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	770.626276126467	Hilly	Open	Absent	distance_to_water_km	3.1940032483773195
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	770.626276126467	Hilly	Open	Absent	average_annual_rainfall_mm	764.9452632960856
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	770.626276126467	Hilly	Open	Absent	predator_density_per_sq_km	3.6338270556250176
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1539.0546308273485	Flat	Open	Present	distance_to_water_km	1.106526132980367
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1539.0546308273485	Flat	Open	Present	average_annual_rainfall_mm	1174.8974217040193
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1539.0546308273485	Flat	Open	Present	predator_density_per_sq_km	2.3928777857595827
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1666.6398880465747	Hilly	Dense	Absent	distance_to_water_km	6.361659691328187
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1666.6398880465747	Hilly	Dense	Absent	average_annual_rainfall_mm	605.0468795044923
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1666.6398880465747	Hilly	Dense	Absent	predator_density_per_sq_km	0.9118202174980532
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	964.7270040272915	NA	Open	Absent	distance_to_water_km	6.604505741213069
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	964.7270040272915	NA	Open	Absent	average_annual_rainfall_mm	157.06759631183752
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	964.7270040272915	NA	Open	Absent	predator_density_per_sq_km	NA
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1686.219491330584	Hilly	Open	Present	distance_to_water_km	8.388462922070788
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1686.219491330584	Hilly	Open	Present	average_annual_rainfall_mm	1139.4903972357558
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1686.219491330584	Hilly	Open	Present	predator_density_per_sq_km	0.5064164380710597
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1247.6139441992082	Flat	Open	Present	distance_to_water_km	3.4913659415196947
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1247.6139441992082	Flat	Open	Present	average_annual_rainfall_mm	1252.1619480883
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1247.6139441992082	Flat	Open	Present	predator_density_per_sq_km	0.8784102682452163
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1214.2646256717483	Flat	Open	Present	distance_to_water_km	2.1154932421538053
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1214.2646256717483	Flat	Open	Present	average_annual_rainfall_mm	914.2463729225848
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1214.2646256717483	Flat	Open	Present	predator_density_per_sq_km	2.3506093580570666
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	3503.6920006582814	Flat	Dense	Absent	distance_to_water_km	6.411160845114801
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	3503.6920006582814	Flat	Dense	Absent	average_annual_rainfall_mm	1151.2378763774825
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	3503.6920006582814	Flat	Dense	Absent	predator_density_per_sq_km	1.4606753546392137
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1283.2460010145167	Flat	Open	Absent	distance_to_water_km	0.4889118367671891
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1283.2460010145167	Flat	Open	Absent	average_annual_rainfall_mm	653.2250424748986
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1283.2460010145167	Flat	Open	Absent	predator_density_per_sq_km	1.3773345309919172
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1457.2789746196056	Hilly	Dense	Present	distance_to_water_km	4.737222266600141
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1457.2789746196056	Hilly	Dense	Present	average_annual_rainfall_mm	961.8554179523013
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1457.2789746196056	Hilly	Dense	Present	predator_density_per_sq_km	0.4835059162909911
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1535.7640188448308	Flat	Open	Present	distance_to_water_km	2.7974385840814713
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1535.7640188448308	Flat	Open	Present	average_annual_rainfall_mm	417.54448718781464
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1535.7640188448308	Flat	Open	Present	predator_density_per_sq_km	0.6549743127877196
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1161.3095138002225	Flat	Open	Absent	distance_to_water_km	4.965264157834927
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1161.3095138002225	Flat	Open	Absent	average_annual_rainfall_mm	1354.3542674315565
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1161.3095138002225	Flat	Open	Absent	predator_density_per_sq_km	0.5855379921710983
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1228.9900603213528	Hilly	Open	Absent	distance_to_water_km	2.392123700849632
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1228.9900603213528	Hilly	Open	Absent	average_annual_rainfall_mm	1557.9732584629483
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1228.9900603213528	Hilly	Open	Absent	predator_density_per_sq_km	1.3187800556667524
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1136.6373866426604	Flat	Open	Present	distance_to_water_km	2.3881981838607342
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1136.6373866426604	Flat	Open	Present	average_annual_rainfall_mm	1322.203678084597
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1136.6373866426604	Flat	Open	Present	predator_density_per_sq_km	0.49989593044865166
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1670.177489512475	Flat	Open	Present	distance_to_water_km	6.269924988031673
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1670.177489512475	Flat	Open	Present	average_annual_rainfall_mm	991.7959100758775
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1670.177489512475	Flat	Open	Present	predator_density_per_sq_km	1.4820540142459449
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1489.8002914633162	Hilly	Dense	Absent	distance_to_water_km	2.9528650260098432
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1489.8002914633162	Hilly	Dense	Absent	average_annual_rainfall_mm	990.0008973172243
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1489.8002914633162	Hilly	Dense	Absent	predator_density_per_sq_km	0.45772281369548573
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1210.8007019911545	Hilly	Open	Absent	distance_to_water_km	4.53751569417576
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1210.8007019911545	Hilly	Open	Absent	average_annual_rainfall_mm	545.1797130546703
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1210.8007019911545	Hilly	Open	Absent	predator_density_per_sq_km	3.596536577919845
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1326.142802581312	Hilly	Dense	Absent	distance_to_water_km	2.157070400632828
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1326.142802581312	Hilly	Dense	Absent	average_annual_rainfall_mm	1237.1156031664684
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1326.142802581312	Hilly	Dense	Absent	predator_density_per_sq_km	1.3804560900947738
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1278.293410970413	Hilly	Dense	Present	distance_to_water_km	1.5067246369978657
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1278.293410970413	Hilly	Dense	Present	average_annual_rainfall_mm	936.7797457924673
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1278.293410970413	Hilly	Dense	Present	predator_density_per_sq_km	0.61219615777968
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	917.583129504852	Hilly	NA	Absent	distance_to_water_km	6.132706651927912
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	917.583129504852	Hilly	NA	Absent	average_annual_rainfall_mm	802.9771223916773
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	917.583129504852	Hilly	NA	Absent	predator_density_per_sq_km	1.1838030180739725
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1087.1780660091124	Hilly	Dense	Absent	distance_to_water_km	0.9804378794658962
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1087.1780660091124	Hilly	Dense	Absent	average_annual_rainfall_mm	576.3922622025074
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1087.1780660091124	Hilly	Dense	Absent	predator_density_per_sq_km	0.7813616005264507
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1387.5242639260928	Hilly	Dense	Present	distance_to_water_km	5.218711861739274
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1387.5242639260928	Hilly	Dense	Present	average_annual_rainfall_mm	910.0712510061184
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1387.5242639260928	Hilly	Dense	Present	predator_density_per_sq_km	1.296675358083266
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1507.6983340588586	Flat	Dense	NA	distance_to_water_km	4.399621462406151
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1507.6983340588586	Flat	Dense	NA	average_annual_rainfall_mm	745.2816594949875
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1507.6983340588586	Flat	Dense	NA	predator_density_per_sq_km	1.1858655182573055
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	970.2816177800014	Hilly	Dense	Present	distance_to_water_km	3.9718422365148602
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	970.2816177800014	Hilly	Dense	Present	average_annual_rainfall_mm	880.890843901649
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	970.2816177800014	Hilly	Dense	Present	predator_density_per_sq_km	0.491703237216542
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1442.1067123109603	Flat	Dense	Present	distance_to_water_km	2.4956220372722338
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1442.1067123109603	Flat	Dense	Present	average_annual_rainfall_mm	634.7200036709207
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1442.1067123109603	Flat	Dense	Present	predator_density_per_sq_km	0.5746927578456604
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	874.7300213899158	Flat	Dense	Present	distance_to_water_km	1.4353588783996258
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	874.7300213899158	Flat	Dense	Present	average_annual_rainfall_mm	1506.2768448837094
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	874.7300213899158	Flat	Dense	Present	predator_density_per_sq_km	1.2333272262957247
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1555.017102704849	Flat	Open	Absent	distance_to_water_km	10.478774837860307
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1555.017102704849	Flat	Open	Absent	average_annual_rainfall_mm	995.1992418376093
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1555.017102704849	Flat	Open	Absent	predator_density_per_sq_km	3.149791739243771
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1064.1033531148141	Hilly	Open	Absent	distance_to_water_km	1.458894440043302
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1064.1033531148141	Hilly	Open	Absent	average_annual_rainfall_mm	1322.4835231817158
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1064.1033531148141	Hilly	Open	Absent	predator_density_per_sq_km	2.136634454106549
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1106.2447544198612	Hilly	Dense	Present	distance_to_water_km	9.220628262881558
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1106.2447544198612	Hilly	Dense	Present	average_annual_rainfall_mm	219.4900989227044
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1106.2447544198612	Hilly	Dense	Present	predator_density_per_sq_km	0.6458440380385571
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1393.3663984978002	Hilly	Dense	Present	distance_to_water_km	1.0768846584068605
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1393.3663984978002	Hilly	Dense	Present	average_annual_rainfall_mm	864.0406510015488
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1393.3663984978002	Hilly	Dense	Present	predator_density_per_sq_km	1.7827302387304056
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	982.6561621732169	Hilly	Dense	Present	distance_to_water_km	4.164536157894446
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	982.6561621732169	Hilly	Dense	Present	average_annual_rainfall_mm	797.3553125223787
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	982.6561621732169	Hilly	Dense	Present	predator_density_per_sq_km	0.9665735857364346
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1069.3285543438915	Flat	Dense	Present	distance_to_water_km	1.9822882081924287
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1069.3285543438915	Flat	Dense	Present	average_annual_rainfall_mm	633.1221461902261
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1069.3285543438915	Flat	Dense	Present	predator_density_per_sq_km	1.2348130180180248
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1565.9800974197835	Hilly	Dense	Absent	distance_to_water_km	1.251241180096068
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1565.9800974197835	Hilly	Dense	Absent	average_annual_rainfall_mm	1463.9827462672285
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1565.9800974197835	Hilly	Dense	Absent	predator_density_per_sq_km	1.1999177868823407
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	878.8280831383429	Flat	Open	Absent	distance_to_water_km	2.204662658045644
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	878.8280831383429	Flat	Open	Absent	average_annual_rainfall_mm	575.415424069153
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	878.8280831383429	Flat	Open	Absent	predator_density_per_sq_km	6.066700210522586
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1731.5965547461797	Hilly	Open	Absent	distance_to_water_km	3.643066495688791
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1731.5965547461797	Hilly	Open	Absent	average_annual_rainfall_mm	1095.5170781224076
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1731.5965547461797	Hilly	Open	Absent	predator_density_per_sq_km	0.4361791753510203
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1365.024777189361	Hilly	Open	Present	distance_to_water_km	6.3346998897195
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1365.024777189361	Hilly	Open	Present	average_annual_rainfall_mm	1253.9308856739076
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1365.024777189361	Hilly	Open	Present	predator_density_per_sq_km	1.0731989930594839
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1167.343544383441	Flat	Dense	Absent	distance_to_water_km	3.2111533324127093
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1167.343544383441	Flat	Dense	Absent	average_annual_rainfall_mm	1053.4570565254069
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1167.343544383441	Flat	Dense	Absent	predator_density_per_sq_km	0.28765768441221223
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	858.3879323391487	Hilly	Open	Present	distance_to_water_km	5.131345567791867
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	858.3879323391487	Hilly	Open	Present	average_annual_rainfall_mm	737.4233567513453
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	858.3879323391487	Hilly	Open	Present	predator_density_per_sq_km	1.5111714519879043
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1580.2049282098812	Hilly	Dense	Present	distance_to_water_km	1.901635584488997
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1580.2049282098812	Hilly	Dense	Present	average_annual_rainfall_mm	1282.34974201725
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1580.2049282098812	Hilly	Dense	Present	predator_density_per_sq_km	2.154644899589079
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1896.3269976844076	Flat	Open	Absent	distance_to_water_km	4.987884829349195
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1896.3269976844076	Flat	Open	Absent	average_annual_rainfall_mm	1051.1764245522513
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1896.3269976844076	Flat	Open	Absent	predator_density_per_sq_km	2.7509974878659924
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1597.5480647901525	Flat	Dense	Present	distance_to_water_km	5.074292921998812
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1597.5480647901525	Flat	Dense	Present	average_annual_rainfall_mm	680.950628085387
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1597.5480647901525	Flat	Dense	Present	predator_density_per_sq_km	0.2598627488763915
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1187.7100489952497	Hilly	Dense	Present	distance_to_water_km	7.278128456395767
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1187.7100489952497	Hilly	Dense	Present	average_annual_rainfall_mm	583.5852857193817
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1187.7100489952497	Hilly	Dense	Present	predator_density_per_sq_km	1.3350098205412377
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1152.354624172367	Hilly	Open	Absent	distance_to_water_km	1.7544875426040045
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1152.354624172367	Hilly	Open	Absent	average_annual_rainfall_mm	1626.0152303479442
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1152.354624172367	Hilly	Open	Absent	predator_density_per_sq_km	3.0506630668797556
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	866.2266352120828	NA	Dense	Present	distance_to_water_km	9.88658435219763
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	866.2266352120828	NA	Dense	Present	average_annual_rainfall_mm	796.4490563744689
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	866.2266352120828	NA	Dense	Present	predator_density_per_sq_km	0.7484049248269224
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1158.8860008415895	Hilly	Dense	Present	distance_to_water_km	4.651855647403885
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1158.8860008415895	Hilly	Dense	Present	average_annual_rainfall_mm	443.3285038245879
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1158.8860008415895	Hilly	Dense	Present	predator_density_per_sq_km	0.8619953761246519
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1816.2826267664536	Hilly	Dense	Absent	distance_to_water_km	0.7178636444727295
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1816.2826267664536	Hilly	Dense	Absent	average_annual_rainfall_mm	1159.9778088260957
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1816.2826267664536	Hilly	Dense	Absent	predator_density_per_sq_km	0.9747482411394015
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1335.4700565589815	Hilly	Open	Present	distance_to_water_km	0.6890750407510432
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1335.4700565589815	Hilly	Open	Present	average_annual_rainfall_mm	1093.0690768182687
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1335.4700565589815	Hilly	Open	Present	predator_density_per_sq_km	1.2911239602038287
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	875.009715789953	Flat	Dense	Absent	distance_to_water_km	10.803346871095242
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	875.009715789953	Flat	Dense	Absent	average_annual_rainfall_mm	593.8496992832205
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	875.009715789953	Flat	Dense	Absent	predator_density_per_sq_km	1.592988661216521
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	2404.451482078104	Hilly	Dense	Present	distance_to_water_km	7.075956034424956
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	2404.451482078104	Hilly	Dense	Present	average_annual_rainfall_mm	417.11307592541505
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	2404.451482078104	Hilly	Dense	Present	predator_density_per_sq_km	2.515507616062089
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1148.621412932556	Hilly	Open	Present	distance_to_water_km	2.385680853817875
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1148.621412932556	Hilly	Open	Present	average_annual_rainfall_mm	965.1092448524183
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1148.621412932556	Hilly	Open	Present	predator_density_per_sq_km	0.9353436161417983
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1217.870724583533	Flat	Open	Absent	distance_to_water_km	0.5629216183452705
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1217.870724583533	Flat	Open	Absent	average_annual_rainfall_mm	1341.8188875128267
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1217.870724583533	Flat	Open	Absent	predator_density_per_sq_km	1.1472808127241565
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1311.785149028398	Flat	Dense	Absent	distance_to_water_km	1.9468436689222903
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1311.785149028398	Flat	Dense	Absent	average_annual_rainfall_mm	1190.8372105546446
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1311.785149028398	Flat	Dense	Absent	predator_density_per_sq_km	5.706457989149903
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1002.494126490823	Hilly	Dense	Present	distance_to_water_km	2.987419683264183
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1002.494126490823	Hilly	Dense	Present	average_annual_rainfall_mm	852.1187727514067
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1002.494126490823	Hilly	Dense	Present	predator_density_per_sq_km	1.3522491587805392
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1347.6793741243566	Hilly	Open	Absent	distance_to_water_km	8.406628640379399
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1347.6793741243566	Hilly	Open	Absent	average_annual_rainfall_mm	749.7435305246868
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1347.6793741243566	Hilly	Open	Absent	predator_density_per_sq_km	1.1412534506931016
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	998.2227935577832	Hilly	Open	Present	distance_to_water_km	2.8691181809315305
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	998.2227935577832	Hilly	Open	Present	average_annual_rainfall_mm	1081.3200270251634
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	998.2227935577832	Hilly	Open	Present	predator_density_per_sq_km	0.3907957680946927
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1114.6623239959454	Hilly	Dense	Absent	distance_to_water_km	3.9742425588869534
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1114.6623239959454	Hilly	Dense	Absent	average_annual_rainfall_mm	1047.2060041648472
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1114.6623239959454	Hilly	Dense	Absent	predator_density_per_sq_km	1.0020012331349901
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1404.3744420639375	Flat	Open	Absent	distance_to_water_km	1.974485269430611
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1404.3744420639375	Flat	Open	Absent	average_annual_rainfall_mm	1188.9135240078183
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1404.3744420639375	Flat	Open	Absent	predator_density_per_sq_km	0.8564765784722252
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1367.7257664687804	Flat	Dense	Present	distance_to_water_km	1.8690678782840702
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1367.7257664687804	Flat	Dense	Present	average_annual_rainfall_mm	881.2606149133311
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1367.7257664687804	Flat	Dense	Present	predator_density_per_sq_km	0.9922977347755607
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	945.6227681219177	Flat	Open	Present	distance_to_water_km	6.270566405398382
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	945.6227681219177	Flat	Open	Present	average_annual_rainfall_mm	1269.8062159609299
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	945.6227681219177	Flat	Open	Present	predator_density_per_sq_km	0.6684508894824004
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1467.887169531146	Flat	Open	Present	distance_to_water_km	3.4052829786174703
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1467.887169531146	Flat	Open	Present	average_annual_rainfall_mm	750.7565417991254
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1467.887169531146	Flat	Open	Present	predator_density_per_sq_km	NA
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1486.9626443433046	Flat	Open	Absent	distance_to_water_km	13.300718162711222
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1486.9626443433046	Flat	Open	Absent	average_annual_rainfall_mm	900.8365899640111
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1486.9626443433046	Flat	Open	Absent	predator_density_per_sq_km	0.603782320653874
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	868.2478219503848	Hilly	Open	Present	distance_to_water_km	3.7422452074041073
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	868.2478219503848	Hilly	Open	Present	average_annual_rainfall_mm	1222.2443571177714
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	868.2478219503848	Hilly	Open	Present	predator_density_per_sq_km	0.8605761598149975
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1076.2425884181719	Hilly	Open	Present	distance_to_water_km	2.9208949322609166
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1076.2425884181719	Hilly	Open	Present	average_annual_rainfall_mm	1296.9914825881337
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1076.2425884181719	Hilly	Open	Present	predator_density_per_sq_km	NA
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1737.0075524827287	NA	Open	Absent	distance_to_water_km	1.758780627298726
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1737.0075524827287	NA	Open	Absent	average_annual_rainfall_mm	418.4485895639863
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1737.0075524827287	NA	Open	Absent	predator_density_per_sq_km	2.0841490419649342
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	690.1918392031789	Hilly	Dense	Present	distance_to_water_km	1.0914620642601305
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	690.1918392031789	Hilly	Dense	Present	average_annual_rainfall_mm	1032.157122104846
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	690.1918392031789	Hilly	Dense	Present	predator_density_per_sq_km	0.7772582758003244
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	983.9586683067095	Hilly	Dense	Absent	distance_to_water_km	4.983571054074984
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	983.9586683067095	Hilly	Dense	Absent	average_annual_rainfall_mm	1182.633703520389
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	983.9586683067095	Hilly	Dense	Absent	predator_density_per_sq_km	0.3072352561510285
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1578.532795928774	Hilly	Dense	Present	distance_to_water_km	2.1753484957422367
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1578.532795928774	Hilly	Dense	Present	average_annual_rainfall_mm	564.7527059528106
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1578.532795928774	Hilly	Dense	Present	predator_density_per_sq_km	0.5536578402172302
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1394.5864307215115	Hilly	Open	Present	distance_to_water_km	2.1292928292013826
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1394.5864307215115	Hilly	Open	Present	average_annual_rainfall_mm	1144.1876799625652
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1394.5864307215115	Hilly	Open	Present	predator_density_per_sq_km	0.7258351375069991
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1063.1239869628678	Hilly	Dense	Present	distance_to_water_km	1.5003824155324557
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1063.1239869628678	Hilly	Dense	Present	average_annual_rainfall_mm	751.5477188809609
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1063.1239869628678	Hilly	Dense	Present	predator_density_per_sq_km	1.0752429144248776
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1183.4813071589	Hilly	Open	Absent	distance_to_water_km	4.85530179202107
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1183.4813071589	Hilly	Open	Absent	average_annual_rainfall_mm	1306.0759036493287
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1183.4813071589	Hilly	Open	Absent	predator_density_per_sq_km	0.628873539238322
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1103.0498967140597	Hilly	Open	Absent	distance_to_water_km	0.8422547869324353
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1103.0498967140597	Hilly	Open	Absent	average_annual_rainfall_mm	1161.5446096307924
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1103.0498967140597	Hilly	Open	Absent	predator_density_per_sq_km	4.074208454711215
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	876.8355534869945	Flat	Open	Absent	distance_to_water_km	2.7828418955353826
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	876.8355534869945	Flat	Open	Absent	average_annual_rainfall_mm	1230.7156884986828
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	876.8355534869945	Flat	Open	Absent	predator_density_per_sq_km	0.8264736248455667
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	681.3791055283798	Hilly	Open	Absent	distance_to_water_km	1.6910121458690903
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	681.3791055283798	Hilly	Open	Absent	average_annual_rainfall_mm	1036.2157987861103
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	681.3791055283798	Hilly	Open	Absent	predator_density_per_sq_km	0.42751704110424127
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1497.7073536113048	Flat	Dense	Absent	distance_to_water_km	1.7580019795181847
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1497.7073536113048	Flat	Dense	Absent	average_annual_rainfall_mm	1259.094530247326
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1497.7073536113048	Flat	Dense	Absent	predator_density_per_sq_km	0.9058484776862561
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1315.0011158329542	Flat	Open	Present	distance_to_water_km	5.687279399374616
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1315.0011158329542	Flat	Open	Present	average_annual_rainfall_mm	1414.1543584943615
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1315.0011158329542	Flat	Open	Present	predator_density_per_sq_km	0.4947195180973143
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1364.7327801947854	Flat	Open	Absent	distance_to_water_km	4.938041906079143
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1364.7327801947854	Flat	Open	Absent	average_annual_rainfall_mm	1589.87440463669
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1364.7327801947854	Flat	Open	Absent	predator_density_per_sq_km	1.1155069832774998
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1764.329252344263	Hilly	Dense	Present	distance_to_water_km	2.668025556147464
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1764.329252344263	Hilly	Dense	Present	average_annual_rainfall_mm	991.4814835752805
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1764.329252344263	Hilly	Dense	Present	predator_density_per_sq_km	1.1776766181734184
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	889.939250172917	Flat	Open	Absent	distance_to_water_km	1.3910340316475291
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	889.939250172917	Flat	Open	Absent	average_annual_rainfall_mm	325.2846729002787
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	889.939250172917	Flat	Open	Absent	predator_density_per_sq_km	1.282628294990429
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	958.0609414682726	Hilly	Open	Present	distance_to_water_km	5.584400486536917
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	958.0609414682726	Hilly	Open	Present	average_annual_rainfall_mm	1009.4578013781975
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	958.0609414682726	Hilly	Open	Present	predator_density_per_sq_km	0.32132545808092244
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1230.818031896273	Flat	Open	Present	distance_to_water_km	4.318718779633615
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1230.818031896273	Flat	Open	Present	average_annual_rainfall_mm	1061.6683625349924
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1230.818031896273	Flat	Open	Present	predator_density_per_sq_km	1.1670718314982713
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1110.9644692403647	Flat	Dense	Present	distance_to_water_km	0.7851774187824853
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1110.9644692403647	Flat	Dense	Present	average_annual_rainfall_mm	953.3963958566804
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1110.9644692403647	Flat	Dense	Present	predator_density_per_sq_km	1.2427355722365825
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1959.6098949730929	Flat	Dense	Absent	distance_to_water_km	2.5774446928617754
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1959.6098949730929	Flat	Dense	Absent	average_annual_rainfall_mm	1170.4865862331224
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1959.6098949730929	Flat	Dense	Absent	predator_density_per_sq_km	0.36980630395148506
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1617.2291680308192	Hilly	Dense	Present	distance_to_water_km	0.47758772512433
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1617.2291680308192	Hilly	Dense	Present	average_annual_rainfall_mm	1303.2033893542794
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1617.2291680308192	Hilly	Dense	Present	predator_density_per_sq_km	1.9518076590462072
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1235.3718507644214	Hilly	Dense	Absent	distance_to_water_km	0.5936675140551698
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1235.3718507644214	Hilly	Dense	Absent	average_annual_rainfall_mm	844.6052709496536
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1235.3718507644214	Hilly	Dense	Absent	predator_density_per_sq_km	1.7313814491292192
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1456.497589719517	Flat	Dense	Present	distance_to_water_km	0.32011542095920553
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1456.497589719517	Flat	Dense	Present	average_annual_rainfall_mm	911.7714018531668
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1456.497589719517	Flat	Dense	Present	predator_density_per_sq_km	5.00147842039967
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1035.785469009159	Flat	Dense	Present	distance_to_water_km	2.150503377088273
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1035.785469009159	Flat	Dense	Present	average_annual_rainfall_mm	1119.3526626401017
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1035.785469009159	Flat	Dense	Present	predator_density_per_sq_km	1.1159344114869707
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	911.8786923273404	Flat	Open	Asbent	distance_to_water_km	10.094815398718973
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	911.8786923273404	Flat	Open	Asbent	average_annual_rainfall_mm	834.9328775532585
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	911.8786923273404	Flat	Open	Asbent	predator_density_per_sq_km	1.0332544376662842
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1260.7321206742	Flat	Dense	Absent	distance_to_water_km	8.193145984385712
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1260.7321206742	Flat	Dense	Absent	average_annual_rainfall_mm	1027.3802150464705
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1260.7321206742	Flat	Dense	Absent	predator_density_per_sq_km	NA
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1542.6570662107267	Hilly	Dense	Present	distance_to_water_km	2.786982555791448
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1542.6570662107267	Hilly	Dense	Present	average_annual_rainfall_mm	411.48772033440935
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1542.6570662107267	Hilly	Dense	Present	predator_density_per_sq_km	1.0500485084542923
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1186.1587749222529	Flat	Open	Present	distance_to_water_km	2.3868819974682847
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1186.1587749222529	Flat	Open	Present	average_annual_rainfall_mm	664.0300835807127
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1186.1587749222529	Flat	Open	Present	predator_density_per_sq_km	0.2741908334052585
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	867.8333669629634	Hilly	Open	Present	distance_to_water_km	2.7280972545120785
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	867.8333669629634	Hilly	Open	Present	average_annual_rainfall_mm	601.6733573187623
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	867.8333669629634	Hilly	Open	Present	predator_density_per_sq_km	0.31043245389962726
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1203.9882457962506	Hilly	Open	Present	distance_to_water_km	5.5987562742513894
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1203.9882457962506	Hilly	Open	Present	average_annual_rainfall_mm	743.9128909818276
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1203.9882457962506	Hilly	Open	Present	predator_density_per_sq_km	0.9471694420198817
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1201.405216441892	Flat	Dense	Present	distance_to_water_km	2.2123326829688597
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1201.405216441892	Flat	Dense	Present	average_annual_rainfall_mm	792.0086416208003
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1201.405216441892	Flat	Dense	Present	predator_density_per_sq_km	0.6658125087981609
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1711.687284723761	Flat	Open	Absent	distance_to_water_km	3.1166160696406506
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1711.687284723761	Flat	Open	Absent	average_annual_rainfall_mm	1114.691542763911
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1711.687284723761	Flat	Open	Absent	predator_density_per_sq_km	1.0390590744639445
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	895.5317615162489	Flat	Dense	Absent	distance_to_water_km	7.0300816252284015
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	895.5317615162489	Flat	Dense	Absent	average_annual_rainfall_mm	1294.6339007567922
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	895.5317615162489	Flat	Dense	Absent	predator_density_per_sq_km	0.22812858007652823
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1616.184975307206	Flat	Open	Present	distance_to_water_km	11.245979015904172
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1616.184975307206	Flat	Open	Present	average_annual_rainfall_mm	781.7849412737394
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1616.184975307206	Flat	Open	Present	predator_density_per_sq_km	0.35025676535293887
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1334.7904378356034	Flat	Open	Absent	distance_to_water_km	7.988287497168932
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1334.7904378356034	Flat	Open	Absent	average_annual_rainfall_mm	700.9483052865985
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1334.7904378356034	Flat	Open	Absent	predator_density_per_sq_km	NA
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	885.6543292743631	Hilly	Dense	Absent	distance_to_water_km	2.682712668285425
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	885.6543292743631	Hilly	Dense	Absent	average_annual_rainfall_mm	687.4933423031472
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	885.6543292743631	Hilly	Dense	Absent	predator_density_per_sq_km	1.994195587497605
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1468.463881531288	Flat	Open	Absent	distance_to_water_km	4.773594970122749
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1468.463881531288	Flat	Open	Absent	average_annual_rainfall_mm	875.6233820908978
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1468.463881531288	Flat	Open	Absent	predator_density_per_sq_km	0.4635027295656304
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1123.5985145640263	Hilly	Open	Absent	distance_to_water_km	5.782375557915501
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1123.5985145640263	Hilly	Open	Absent	average_annual_rainfall_mm	928.2912795542308
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1123.5985145640263	Hilly	Open	Absent	predator_density_per_sq_km	0.5714034407993933
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1524.6791882415446	Flat	Dense	Present	distance_to_water_km	1.711928152944908
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1524.6791882415446	Flat	Dense	Present	average_annual_rainfall_mm	1145.0852601514807
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1524.6791882415446	Flat	Dense	Present	predator_density_per_sq_km	1.0575042735073543
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	793.3241860020127	Flat	Dense	Present	distance_to_water_km	5.82093243100138
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	793.3241860020127	Flat	Dense	Present	average_annual_rainfall_mm	903.6025473494831
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	793.3241860020127	Flat	Dense	Present	predator_density_per_sq_km	0.7977799644884752
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1569.7210452489314	Hilly	Open	Preesnt	distance_to_water_km	4.910348625839582
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1569.7210452489314	Hilly	Open	Preesnt	average_annual_rainfall_mm	376.45321934199296
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1569.7210452489314	Hilly	Open	Preesnt	predator_density_per_sq_km	1.1079284662199214
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1107.1349783063301	Hilly	Dense	Absent	distance_to_water_km	0.5556850474018997
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1107.1349783063301	Hilly	Dense	Absent	average_annual_rainfall_mm	972.5697173349585
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1107.1349783063301	Hilly	Dense	Absent	predator_density_per_sq_km	5.020569570025611
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1173.306658846953	Flat	Open	Absent	distance_to_water_km	2.327551964385058
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1173.306658846953	Flat	Open	Absent	average_annual_rainfall_mm	1356.156043195467
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1173.306658846953	Flat	Open	Absent	predator_density_per_sq_km	0.4551070696141604
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1111.1671843417726	Flat	Open	Present	distance_to_water_km	3.443455413047632
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1111.1671843417726	Flat	Open	Present	average_annual_rainfall_mm	1357.4803805530976
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1111.1671843417726	Flat	Open	Present	predator_density_per_sq_km	0.8074866569386243
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	968.2304935856549	Hilly	Open	Absent	distance_to_water_km	3.185391282808468
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	968.2304935856549	Hilly	Open	Absent	average_annual_rainfall_mm	763.3110345666311
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	968.2304935856549	Hilly	Open	Absent	predator_density_per_sq_km	0.6964692647890317
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1034.2311845534032	Flat	Open	Present	distance_to_water_km	4.140453488308562
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1034.2311845534032	Flat	Open	Present	average_annual_rainfall_mm	535.6670369087287
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1034.2311845534032	Flat	Open	Present	predator_density_per_sq_km	2.882554265365167
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1103.9436029758815	Hilly	Open	Present	distance_to_water_km	3.060745544724716
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1103.9436029758815	Hilly	Open	Present	average_annual_rainfall_mm	1737.4181475595822
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1103.9436029758815	Hilly	Open	Present	predator_density_per_sq_km	0.5835416524356493
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1232.4581197137616	Flat	Dense	Present	distance_to_water_km	0.3057734526516976
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1232.4581197137616	Flat	Dense	Present	average_annual_rainfall_mm	951.2734172561742
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_1	1232.4581197137616	Flat	Dense	Present	predator_density_per_sq_km	0.9441588698697414
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1196.1066657390274	Flat	Dense	Absent	distance_to_water_km	1.2988241227885575
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1196.1066657390274	Flat	Dense	Absent	average_annual_rainfall_mm	970.7646249683148
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1196.1066657390274	Flat	Dense	Absent	predator_density_per_sq_km	1.7349759125151794
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	950.3625266261433	Hilly	Dense	Absent	distance_to_water_km	2.3845744617337945
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	950.3625266261433	Hilly	Dense	Absent	average_annual_rainfall_mm	1126.172256609444
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	950.3625266261433	Hilly	Dense	Absent	predator_density_per_sq_km	0.4766306650270835
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1113.2249192261145	Flat	Open	Absent	distance_to_water_km	6.66319301681918
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1113.2249192261145	Flat	Open	Absent	average_annual_rainfall_mm	515.7881630142642
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1113.2249192261145	Flat	Open	Absent	predator_density_per_sq_km	3.1855439871052473
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1767.5177119937318	Flat	Dense	Absent	distance_to_water_km	7.092490610710258
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1767.5177119937318	Flat	Dense	Absent	average_annual_rainfall_mm	781.5342666426137
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1767.5177119937318	Flat	Dense	Absent	predator_density_per_sq_km	1.6048554509807944
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1066.655974098368	Hilly	Dense	Absent	distance_to_water_km	2.5457817772831204
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1066.655974098368	Hilly	Dense	Absent	average_annual_rainfall_mm	537.8672784129972
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1066.655974098368	Hilly	Dense	Absent	predator_density_per_sq_km	0.4714488687095614
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	861.5178228360135	Flat	Open	Present	distance_to_water_km	2.487429877905132
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	861.5178228360135	Flat	Open	Present	average_annual_rainfall_mm	792.0716157968214
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	861.5178228360135	Flat	Open	Present	predator_density_per_sq_km	1.374657303642928
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	999.9475171134055	Hilly	Open	Present	distance_to_water_km	2.9392939651679613
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	999.9475171134055	Hilly	Open	Present	average_annual_rainfall_mm	1035.6548299013682
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	999.9475171134055	Hilly	Open	Present	predator_density_per_sq_km	0.8612977631412264
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1267.9182091963896	Flat	Open	Absent	distance_to_water_km	6.13785441882244
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1267.9182091963896	Flat	Open	Absent	average_annual_rainfall_mm	590.5871626039263
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1267.9182091963896	Flat	Open	Absent	predator_density_per_sq_km	1.2451551497132465
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	952.5607444764776	Hilly	Open	Present	distance_to_water_km	6.461124037663688
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	952.5607444764776	Hilly	Open	Present	average_annual_rainfall_mm	1176.9948038101938
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	952.5607444764776	Hilly	Open	Present	predator_density_per_sq_km	0.9389597758508422
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	926.9130740627274	Hilly	Open	Absent	distance_to_water_km	1.7522327007429697
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	926.9130740627274	Hilly	Open	Absent	average_annual_rainfall_mm	1086.8032086452008
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	926.9130740627274	Hilly	Open	Absent	predator_density_per_sq_km	2.1156481633143986
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	778.4397157873141	Hilly	Dense	Absent	distance_to_water_km	3.5335376892159402
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	778.4397157873141	Hilly	Dense	Absent	average_annual_rainfall_mm	728.7354923138082
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	778.4397157873141	Hilly	Dense	Absent	predator_density_per_sq_km	0.38838029796693174
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1748.7583287888137	Flat	Dense	Present	distance_to_water_km	4.95516786941794
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1748.7583287888137	Flat	Dense	Present	average_annual_rainfall_mm	1067.897482714319
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1748.7583287888137	Flat	Dense	Present	predator_density_per_sq_km	0.6936195358511182
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1026.5406989610528	Hilly	Open	Absent	distance_to_water_km	3.8660598094873393
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1026.5406989610528	Hilly	Open	Absent	average_annual_rainfall_mm	1224.424348748153
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1026.5406989610528	Hilly	Open	Absent	predator_density_per_sq_km	0.8399327293752353
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1672.3829632358581	Hilly	Dense	Present	distance_to_water_km	6.310103584689577
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1672.3829632358581	Hilly	Dense	Present	average_annual_rainfall_mm	1318.3285759785226
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1672.3829632358581	Hilly	Dense	Present	predator_density_per_sq_km	0.49804785739103297
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1434.831015114825	Hilly	Open	Present	distance_to_water_km	4.685439415600831
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1434.831015114825	Hilly	Open	Present	average_annual_rainfall_mm	936.1455164060417
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1434.831015114825	Hilly	Open	Present	predator_density_per_sq_km	0.48288896850068397
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1531.976649618395	Flat	Open	Absent	distance_to_water_km	1.4065665550105162
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1531.976649618395	Flat	Open	Absent	average_annual_rainfall_mm	971.9089618266863
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1531.976649618395	Flat	Open	Absent	predator_density_per_sq_km	0.9874927061575932
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1023.1712457394584	Hilly	Dense	Present	distance_to_water_km	5.647760664296877
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1023.1712457394584	Hilly	Dense	Present	average_annual_rainfall_mm	973.9857595054225
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1023.1712457394584	Hilly	Dense	Present	predator_density_per_sq_km	0.91162861430677
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1221.8228595883709	Flat	Open	Absent	distance_to_water_km	3.609769584240564
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1221.8228595883709	Flat	Open	Absent	average_annual_rainfall_mm	1432.4385268165133
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1221.8228595883709	Flat	Open	Absent	predator_density_per_sq_km	0.16787427508599523
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	3319.1534637056134	Hilly	Open	Present	distance_to_water_km	6.725638839863886
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	3319.1534637056134	Hilly	Open	Present	average_annual_rainfall_mm	1337.5215676833982
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	3319.1534637056134	Hilly	Open	Present	predator_density_per_sq_km	2.0717660732303544
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1527.6879728040808	Flat	Open	Absent	distance_to_water_km	0.6168444115968283
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1527.6879728040808	Flat	Open	Absent	average_annual_rainfall_mm	1250.3204703271117
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1527.6879728040808	Flat	Open	Absent	predator_density_per_sq_km	1.191017537385533
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1273.0963007433727	Flat	Dense	Present	distance_to_water_km	0.5828911413773397
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1273.0963007433727	Flat	Dense	Present	average_annual_rainfall_mm	913.7977600477922
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1273.0963007433727	Flat	Dense	Present	predator_density_per_sq_km	5.426775685683067
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1494.0456411616685	Flat	Dense	Absent	distance_to_water_km	4.908581611772703
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1494.0456411616685	Flat	Dense	Absent	average_annual_rainfall_mm	1111.972430249922
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1494.0456411616685	Flat	Dense	Absent	predator_density_per_sq_km	1.61549072762745
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1583.1575120649927	Hilly	Dense	Present	distance_to_water_km	2.85286690100846
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1583.1575120649927	Hilly	Dense	Present	average_annual_rainfall_mm	1120.9870993662087
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1583.1575120649927	Hilly	Dense	Present	predator_density_per_sq_km	0.7313438723187489
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1208.5810655172884	Hilly	Dense	Absent	distance_to_water_km	6.189608077311239
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1208.5810655172884	Hilly	Dense	Absent	average_annual_rainfall_mm	687.4980117132033
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1208.5810655172884	Hilly	Dense	Absent	predator_density_per_sq_km	7.086374125360622
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	931.1080665686621	Hilly	Dense	Present	distance_to_water_km	9.200170025263418
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	931.1080665686621	Hilly	Dense	Present	average_annual_rainfall_mm	481.50864540377717
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	931.1080665686621	Hilly	Dense	Present	predator_density_per_sq_km	7.261295211705751
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1377.3180510006057	Flat	Dense	Absent	distance_to_water_km	1.211007100575842
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1377.3180510006057	Flat	Dense	Absent	average_annual_rainfall_mm	1192.5490082954848
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1377.3180510006057	Flat	Dense	Absent	predator_density_per_sq_km	0.42609273380982227
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	807.9910684324963	Hilly	Open	Present	distance_to_water_km	3.129395470440951
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	807.9910684324963	Hilly	Open	Present	average_annual_rainfall_mm	541.2068406458733
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	807.9910684324963	Hilly	Open	Present	predator_density_per_sq_km	1.3886365537538983
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1448.9186969622106	Hilly	Dense	Present	distance_to_water_km	4.682935617093763
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1448.9186969622106	Hilly	Dense	Present	average_annual_rainfall_mm	1000.505106545263
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1448.9186969622106	Hilly	Dense	Present	predator_density_per_sq_km	0.8625407860312437
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1247.1663276168515	Flat	Dense	Present	distance_to_water_km	2.3235061558330927
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1247.1663276168515	Flat	Dense	Present	average_annual_rainfall_mm	1075.0743464044992
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1247.1663276168515	Flat	Dense	Present	predator_density_per_sq_km	1.1398946006794772
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1072.7796071168157	Hilly	Open	Absent	distance_to_water_km	12.604958850268515
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1072.7796071168157	Hilly	Open	Absent	average_annual_rainfall_mm	1169.1602170917652
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1072.7796071168157	Hilly	Open	Absent	predator_density_per_sq_km	1.1726661417236215
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1367.2346527672842	Hilly	Open	Present	distance_to_water_km	2.5181954671891393
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1367.2346527672842	Hilly	Open	Present	average_annual_rainfall_mm	1056.8278712544432
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1367.2346527672842	Hilly	Open	Present	predator_density_per_sq_km	0.41340384783189044
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1477.39069733825	Hilly	Open	Absent	distance_to_water_km	6.427476061379862
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1477.39069733825	Hilly	Open	Absent	average_annual_rainfall_mm	780.1438581108625
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1477.39069733825	Hilly	Open	Absent	predator_density_per_sq_km	1.2212961418887238
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1002.9420962661261	Hilly	Dense	Present	distance_to_water_km	4.941209595783209
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1002.9420962661261	Hilly	Dense	Present	average_annual_rainfall_mm	1295.9097579686384
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1002.9420962661261	Hilly	Dense	Present	predator_density_per_sq_km	3.4023730845433406
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	927.4467016769021	Hilly	Open	Absent	distance_to_water_km	3.743014652035038
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	927.4467016769021	Hilly	Open	Absent	average_annual_rainfall_mm	1521.5901300718738
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	927.4467016769021	Hilly	Open	Absent	predator_density_per_sq_km	0.8914882668536646
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	811.3479881195655	Flat	Open	Absent	distance_to_water_km	0.10189110493500901
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	811.3479881195655	Flat	Open	Absent	average_annual_rainfall_mm	1264.353642677633
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	811.3479881195655	Flat	Open	Absent	predator_density_per_sq_km	0.8922145062184434
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1074.0661604025402	Flat	Open	Absent	distance_to_water_km	3.9978235110444746
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1074.0661604025402	Flat	Open	Absent	average_annual_rainfall_mm	416.9047296028073
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1074.0661604025402	Flat	Open	Absent	predator_density_per_sq_km	2.6617941939974257
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1266.7778788681237	Flat	Open	Present	distance_to_water_km	1.131129694408913
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1266.7778788681237	Flat	Open	Present	average_annual_rainfall_mm	1419.8728556208832
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1266.7778788681237	Flat	Open	Present	predator_density_per_sq_km	1.8755038971772537
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	2775.110859098522	Hilly	Dense	Present	distance_to_water_km	11.227146407365504
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	2775.110859098522	Hilly	Dense	Present	average_annual_rainfall_mm	983.1832161441196
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	2775.110859098522	Hilly	Dense	Present	predator_density_per_sq_km	0.31538966501165044
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1690.8962637174793	Flat	Open	Present	distance_to_water_km	15.75082960805087
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1690.8962637174793	Flat	Open	Present	average_annual_rainfall_mm	1157.474283795787
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1690.8962637174793	Flat	Open	Present	predator_density_per_sq_km	1.17349899662811
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1426.5533534190834	Flat	Dense	Absent	distance_to_water_km	5.362385466652785
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1426.5533534190834	Flat	Dense	Absent	average_annual_rainfall_mm	1186.609970761318
+lv25974	Giraffe	Golden Tusk Safari	Obs_1	1426.5533534190834	Flat	Dense	Absent	predator_density_per_sq_km	3.181914514678074
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	956.7758981668636	Hilly	Open	Present	distance_to_water_km	4.379682048731601
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	956.7758981668636	Hilly	Open	Present	average_annual_rainfall_mm	970.9941780379885
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	956.7758981668636	Hilly	Open	Present	predator_density_per_sq_km	2.693101342496638
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	959.0624543972149	Hilly	Dense	Absent	distance_to_water_km	1.7298161899766926
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	959.0624543972149	Hilly	Dense	Absent	average_annual_rainfall_mm	977.4210407053821
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	959.0624543972149	Hilly	Dense	Absent	predator_density_per_sq_km	1.341738448380782
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1472.282088855663	Hilly	Open	Present	distance_to_water_km	0.4858336530099363
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1472.282088855663	Hilly	Open	Present	average_annual_rainfall_mm	1305.7471207992699
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_4	1472.282088855663	Hilly	Open	Present	predator_density_per_sq_km	1.6567445542598154
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1211.6318716303876	Flat	Dense	Present	distance_to_water_km	2.965056489237649
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1211.6318716303876	Flat	Dense	Present	average_annual_rainfall_mm	1213.4805767458731
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1211.6318716303876	Flat	Dense	Present	predator_density_per_sq_km	0.4326376884260202
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1297.5264443370213	Hilly	Dense	Absent	distance_to_water_km	1.3140908695635052
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1297.5264443370213	Hilly	Dense	Absent	average_annual_rainfall_mm	1297.0786738132692
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1297.5264443370213	Hilly	Dense	Absent	predator_density_per_sq_km	1.2337916830113007
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1173.4296604915935	Hilly	Open	Present	distance_to_water_km	3.484060993559305
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1173.4296604915935	Hilly	Open	Present	average_annual_rainfall_mm	1714.8780085690983
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1173.4296604915935	Hilly	Open	Present	predator_density_per_sq_km	0.5126744402662666
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	964.9367394513212	Flat	Dense	Present	distance_to_water_km	3.4432551741016093
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	964.9367394513212	Flat	Dense	Present	average_annual_rainfall_mm	1199.324759108226
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	964.9367394513212	Flat	Dense	Present	predator_density_per_sq_km	0.7257042998071433
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1141.4958814483025	Flat	Open	Present	distance_to_water_km	0.9722770557743416
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1141.4958814483025	Flat	Open	Present	average_annual_rainfall_mm	1062.214347215592
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1141.4958814483025	Flat	Open	Present	predator_density_per_sq_km	1.9249934760050555
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1108.525481640736	Flat	Dense	Absent	distance_to_water_km	4.044399192958376
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1108.525481640736	Flat	Dense	Absent	average_annual_rainfall_mm	336.8100668273138
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1108.525481640736	Flat	Dense	Absent	predator_density_per_sq_km	0.4512087536421696
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1007.0020914219818	Hilly	Dense	Present	distance_to_water_km	5.574181954200664
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1007.0020914219818	Hilly	Dense	Present	average_annual_rainfall_mm	1807.5142009738347
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1007.0020914219818	Hilly	Dense	Present	predator_density_per_sq_km	1.205437745937317
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1451.3397415676882	Flat	Open	Absent	distance_to_water_km	5.505248898155027
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1451.3397415676882	Flat	Open	Absent	average_annual_rainfall_mm	855.1969534611076
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1451.3397415676882	Flat	Open	Absent	predator_density_per_sq_km	1.3496326274878567
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	967.467489243315	Hilly	Open	Absent	distance_to_water_km	1.57966055548643
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	967.467489243315	Hilly	Open	Absent	average_annual_rainfall_mm	1712.420414528618
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	967.467489243315	Hilly	Open	Absent	predator_density_per_sq_km	1.0391866905452474
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1514.578572784038	Flat	Dense	Absent	distance_to_water_km	3.907671123770745
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1514.578572784038	Flat	Dense	Absent	average_annual_rainfall_mm	1112.3930704014963
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_3	1514.578572784038	Flat	Dense	Absent	predator_density_per_sq_km	3.5806064133965565
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1335.0941090261852	Flat	Open	Absent	distance_to_water_km	1.6244023874772626
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1335.0941090261852	Flat	Open	Absent	average_annual_rainfall_mm	1461.5290596690381
+lv25974	Giraffe	Lionshade Wilderness	Obs_4	1335.0941090261852	Flat	Open	Absent	predator_density_per_sq_km	0.48887759881937
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1047.7751013097322	Flat	Open	Present	distance_to_water_km	4.051904351120908
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1047.7751013097322	Flat	Open	Present	average_annual_rainfall_mm	967.0869036471283
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1047.7751013097322	Flat	Open	Present	predator_density_per_sq_km	1.528506604137219
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1034.847668534016	Hilly	Dense	Present	distance_to_water_km	2.7671379440741286
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1034.847668534016	Hilly	Dense	Present	average_annual_rainfall_mm	1153.4412264094376
+lv25974	Giraffe	Golden Tusk Safari	Obs_3	1034.847668534016	Hilly	Dense	Present	predator_density_per_sq_km	0.939646632548558
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	930.3359677099149	Flat	Open	Present	distance_to_water_km	1.7595556919870412
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	930.3359677099149	Flat	Open	Present	average_annual_rainfall_mm	1064.1873938926785
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	930.3359677099149	Flat	Open	Present	predator_density_per_sq_km	0.8331158501428079
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1681.346429834805	Hilly	Open	Absent	distance_to_water_km	3.2673436489156593
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1681.346429834805	Hilly	Open	Absent	average_annual_rainfall_mm	944.1637901879513
+lv25974	Giraffe	Zebra Horizon Park	Obs_2	1681.346429834805	Hilly	Open	Absent	predator_density_per_sq_km	1.3838422419895102
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1184.378912789478	Flat	Open	Present	distance_to_water_km	2.9354307560872246
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1184.378912789478	Flat	Open	Present	average_annual_rainfall_mm	963.8818526132519
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1184.378912789478	Flat	Open	Present	predator_density_per_sq_km	0.4895442545296686
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1101.2920171525216	Flat	Dense	Absent	distance_to_water_km	0.7066308799044392
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1101.2920171525216	Flat	Dense	Absent	average_annual_rainfall_mm	1303.8503007532763
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1101.2920171525216	Flat	Dense	Absent	predator_density_per_sq_km	0.3987519871038806
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1360.5916445306136	Flat	Dense	Absent	distance_to_water_km	1.62687332960496
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1360.5916445306136	Flat	Dense	Absent	average_annual_rainfall_mm	939.56255590855
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1360.5916445306136	Flat	Dense	Absent	predator_density_per_sq_km	0.7074158384193135
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1147.1485518365548	Flat	Open	Present	distance_to_water_km	0.820273398888128
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1147.1485518365548	Flat	Open	Present	average_annual_rainfall_mm	388.69525166776
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	1147.1485518365548	Flat	Open	Present	predator_density_per_sq_km	3.4083557996685077
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1206.626922312588	Hilly	Open	Present	distance_to_water_km	9.290970186706728
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1206.626922312588	Hilly	Open	Present	average_annual_rainfall_mm	941.2332253510517
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1206.626922312588	Hilly	Open	Present	predator_density_per_sq_km	1.0398072321058354
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1730.4186105187785	Flat	Dense	NA	distance_to_water_km	2.8653047780901852
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1730.4186105187785	Flat	Dense	NA	average_annual_rainfall_mm	1161.9371816608823
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	1730.4186105187785	Flat	Dense	NA	predator_density_per_sq_km	1.2611248726429196
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1042.0004544052115	Hilly	Dense	Absent	distance_to_water_km	7.798598526682323
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1042.0004544052115	Hilly	Dense	Absent	average_annual_rainfall_mm	1184.936714905432
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1042.0004544052115	Hilly	Dense	Absent	predator_density_per_sq_km	0.8755590815055634
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1340.2294698436688	Hilly	Open	Absent	distance_to_water_km	1.961271853067038
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1340.2294698436688	Hilly	Open	Absent	average_annual_rainfall_mm	1184.9703452432302
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1340.2294698436688	Hilly	Open	Absent	predator_density_per_sq_km	1.390057220840604
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1623.6071585207058	Hilly	Open	Present	distance_to_water_km	2.2071368344812563
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1623.6071585207058	Hilly	Open	Present	average_annual_rainfall_mm	492.3695437392756
+lv25974	Giraffe	Golden Tusk Safari	Obs_4	1623.6071585207058	Hilly	Open	Present	predator_density_per_sq_km	0.5136692618292679
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	812.1403501582183	Hilly	Open	Absent	distance_to_water_km	4.291780547025293
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	812.1403501582183	Hilly	Open	Absent	average_annual_rainfall_mm	1110.6226174033582
+lv25974	Giraffe	Golden Tusk Safari	Obs_2	812.1403501582183	Hilly	Open	Absent	predator_density_per_sq_km	2.2491161719936628
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1266.6914179103303	Hilly	Dense	Absent	distance_to_water_km	3.346255477416752
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1266.6914179103303	Hilly	Dense	Absent	average_annual_rainfall_mm	1290.357762984119
+lv25974	Giraffe	Zebra Horizon Park	Obs_5	1266.6914179103303	Hilly	Dense	Absent	predator_density_per_sq_km	1.5057538686189051
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1345.2127776958584	Flat	Dense	Present	distance_to_water_km	5.2437701107446335
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1345.2127776958584	Flat	Dense	Present	average_annual_rainfall_mm	1382.973604440297
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_2	1345.2127776958584	Flat	Dense	Present	predator_density_per_sq_km	0.5686347447282698
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1627.520090524606	Flat	Dense	Absent	distance_to_water_km	1.3161068229850068
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1627.520090524606	Flat	Dense	Absent	average_annual_rainfall_mm	932.5116186867652
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1627.520090524606	Flat	Dense	Absent	predator_density_per_sq_km	1.038925776440704
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1257.4080730787098	Flat	Dense	Present	distance_to_water_km	8.7101028033725
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1257.4080730787098	Flat	Dense	Present	average_annual_rainfall_mm	903.4322241451597
+lv25974	Giraffe	Savanna Whisper Reserve	Obs_5	1257.4080730787098	Flat	Dense	Present	predator_density_per_sq_km	1.6510841514870414
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1148.1167775846554	Flat	Dense	Present	distance_to_water_km	3.1617164070202635
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1148.1167775846554	Flat	Dense	Present	average_annual_rainfall_mm	1446.3513495634118
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1148.1167775846554	Flat	Dense	Present	predator_density_per_sq_km	1.4775889735033443
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1319.9406644604494	Hilly	Open	Present	distance_to_water_km	6.388498275569487
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1319.9406644604494	Hilly	Open	Present	average_annual_rainfall_mm	499.6215862662041
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1319.9406644604494	Hilly	Open	Present	predator_density_per_sq_km	2.8217402685353012
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1280.1404344385003	Flat	Open	Absent	distance_to_water_km	9.789908930008997
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1280.1404344385003	Flat	Open	Absent	average_annual_rainfall_mm	868.9510069260625
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1280.1404344385003	Flat	Open	Absent	predator_density_per_sq_km	0.651100397374867
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	707.4338745218566	Flat	Open	Absent	distance_to_water_km	2.350128536978541
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	707.4338745218566	Flat	Open	Absent	average_annual_rainfall_mm	1137.2386238072365
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	707.4338745218566	Flat	Open	Absent	predator_density_per_sq_km	2.1843004800144756
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1474.4356318234345	Flat	Open	Present	distance_to_water_km	1.0693658672041526
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1474.4356318234345	Flat	Open	Present	average_annual_rainfall_mm	514.6678703856321
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1474.4356318234345	Flat	Open	Present	predator_density_per_sq_km	2.065936443093695
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1350.9823172662348	Hilly	Open	Present	distance_to_water_km	2.4986150043304503
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1350.9823172662348	Hilly	Open	Present	average_annual_rainfall_mm	1083.8883587295272
+lv25974	Giraffe	Zebra Horizon Park	Obs_1	1350.9823172662348	Hilly	Open	Present	predator_density_per_sq_km	0.892491586438895
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1039.0734583821613	Flat	Dense	Present	distance_to_water_km	3.803461160230141
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1039.0734583821613	Flat	Dense	Present	average_annual_rainfall_mm	1563.359206315658
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1039.0734583821613	Flat	Dense	Present	predator_density_per_sq_km	0.5050243237751555
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1504.7011430639757	Hilly	Open	Absent	distance_to_water_km	3.0503029165043034
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1504.7011430639757	Hilly	Open	Absent	average_annual_rainfall_mm	998.7818039690978
+lv25974	Giraffe	Zebra Horizon Park	Obs_4	1504.7011430639757	Hilly	Open	Absent	predator_density_per_sq_km	0.4665446112306989
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1212.5695270270573	Flat	Dense	Absent	distance_to_water_km	3.8185971334045465
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1212.5695270270573	Flat	Dense	Absent	average_annual_rainfall_mm	916.4637925109241
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1212.5695270270573	Flat	Dense	Absent	predator_density_per_sq_km	1.377748810699533
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1438.7637740901985	Flat	Open	Absent	distance_to_water_km	7.135525413540786
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1438.7637740901985	Flat	Open	Absent	average_annual_rainfall_mm	1142.4735142102163
+lv25974	Giraffe	Zebra Horizon Park	Obs_3	1438.7637740901985	Flat	Open	Absent	predator_density_per_sq_km	0.9514304275708496
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1539.8995098521902	Hilly	Dense	Absent	distance_to_water_km	3.3045271956332556
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1539.8995098521902	Hilly	Dense	Absent	average_annual_rainfall_mm	916.278348763808
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1539.8995098521902	Hilly	Dense	Absent	predator_density_per_sq_km	3.4742265086304376
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1155.8762948439187	Hilly	Dense	Present	distance_to_water_km	5.000172037751645
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1155.8762948439187	Hilly	Dense	Present	average_annual_rainfall_mm	1244.0201122237195
+lv25974	Giraffe	Lionshade Wilderness	Obs_2	1155.8762948439187	Hilly	Dense	Present	predator_density_per_sq_km	1.4544045492339879
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	971.0640007466778	Flat	Open	Absent	distance_to_water_km	5.2111211270157725
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	971.0640007466778	Flat	Open	Absent	average_annual_rainfall_mm	1271.3306393349085
+lv25974	Giraffe	Lionshade Wilderness	Obs_1	971.0640007466778	Flat	Open	Absent	predator_density_per_sq_km	0.7707729683850253
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1336.3963118272666	Flat	Dense	Absent	distance_to_water_km	5.659132812469051
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1336.3963118272666	Flat	Dense	Absent	average_annual_rainfall_mm	1000.8074983690362
+lv25974	Giraffe	Lionshade Wilderness	Obs_5	1336.3963118272666	Flat	Dense	Absent	predator_density_per_sq_km	0.48778547316760124
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1161.089083477051	Flat	Open	Present	distance_to_water_km	1.7579909869033647
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1161.089083477051	Flat	Open	Present	average_annual_rainfall_mm	646.9923526750819
+lv25974	Giraffe	Lionshade Wilderness	Obs_3	1161.089083477051	Flat	Open	Present	predator_density_per_sq_km	0.6651909263611652
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1799.3659454835442	Flat	Open	Present	distance_to_water_km	2.0746777203841735
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1799.3659454835442	Flat	Open	Present	average_annual_rainfall_mm	604.5337817622736
+lv25974	Giraffe	Golden Tusk Safari	Obs_5	1799.3659454835442	Flat	Open	Present	predator_density_per_sq_km	1.2712769592364896
